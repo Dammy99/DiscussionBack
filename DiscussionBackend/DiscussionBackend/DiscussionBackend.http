@@ -1,0 +1,6 @@
+@DiscussionBackend_HostAddress = http://localhost:5211
+
+GET {{DiscussionBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
